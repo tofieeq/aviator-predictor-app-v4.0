@@ -3,7 +3,7 @@
 
 # Aviator Predictor
 
-![logo-aviator](https://github.com/MuckPro/aviat/assets/138373919/f247efa9-e00d-44ae-bd9f-b600f6d854a2)
+![logo-aviator](https://github.com/MuckPro/Avia/assets/138373919/f247efa9-e00d-44ae-bd9f-b600f6d854a2)
 
 [![Build Status](https://ci.appveyor.com/api/projects/status/1yii01mrx6ied4bt/branch/master?svg=true)](https://ci.appveyor.com/project/jbreckel/flow-result-checker/branch/master) 
 
